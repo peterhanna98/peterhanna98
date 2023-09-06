@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is Peter Hanna
+#### Software developer 
+![Software developer ](https://media.licdn.com/dms/image/D5616AQE5cKi_XEKRuw/profile-displaybackgroundimage-shrink_350_1400/0/1672853515202?e=1699488000&v=beta&t=miW9bgHmYbSzbpnaN9lT5PnAVMEwnvwmHPk_YbIZKdQ)
+
+I’m a passionate software developer who graduated with a Bachelor’s degree in 2022. Currently, I’m pursuing my Master’s degree in Computer Science, specializing in software development.
+
+Skills: Java / C# / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on My Master degree 
+- 🌱 I’m currently learning React 
+- 📫 How to reach me: Peter_hanna98@yahoo.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/peterhanna98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/peterhanna98//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ph.software.innovation//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/peterhanna98)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **peterhanna98/peterhanna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

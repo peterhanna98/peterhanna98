@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Peter Hanna
-#### Software developer 
+## Hi there 👋, my name is Peter Hanna
+### Software developer 
 ![Software developer ](https://media.licdn.com/dms/image/D5616AQE5cKi_XEKRuw/profile-displaybackgroundimage-shrink_350_1400/0/1672853515202?e=1699488000&v=beta&t=miW9bgHmYbSzbpnaN9lT5PnAVMEwnvwmHPk_YbIZKdQ)
 
 I’m a passionate software developer who graduated with a Bachelor’s degree in 2022. Currently, I’m pursuing my Master’s degree in Computer Science, specializing in software development.
